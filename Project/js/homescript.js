@@ -1,0 +1,1 @@
+console.log("MythosWorks script loaded.");
